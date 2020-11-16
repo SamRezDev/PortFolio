@@ -1,0 +1,16 @@
+.Skill {
+	font-size: 48px;
+	color: #dceef9;
+	border: 0.1px solid rgba(240, 161, 161, 0.959);
+	background-color: hsl(250, 71%, 60%);
+	padding: 25px;
+	border-radius: 10px;
+}
+.Skill i {
+	transition: all 0.1s ease-in;
+	z-index: -1;
+}
+.Skill i:hover {
+	cursor: auto;
+	transform: scale(1.5, 1.5);
+}

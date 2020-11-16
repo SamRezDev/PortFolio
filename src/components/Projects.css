@@ -1,0 +1,8 @@
+.Projects {
+	margin-top: 25px;
+	display: grid;
+	grid-template-columns: 50% 50%;
+}
+#MyProj {
+	margin-top: 50px;
+}

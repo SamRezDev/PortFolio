@@ -1,0 +1,45 @@
+@import 'https://fonts.googleapis.com/css2?family=Goldman&display=swap';
+
+.DescriptionCont {
+	font-family: 'Goldman', cursive;
+	color: white;
+	background-color: #8483c3;
+	height: 500px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin-top: 60px;
+}
+
+h1 {
+	padding-left: 25px;
+	text-align: justify;
+	color: #41339a;
+}
+h5 {
+	border-top: 3px dashed black;
+	text-align: left;
+	font-size: 2em;
+}
+.DescText {
+	font-size: 48px;
+}
+.DescMini {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+
+	text-align: left;
+	font-size: 16px;
+	opacity: 0.75;
+	margin-left: 10px;
+}
+.DescMini > div {
+	margin-left: 20px;
+}
+#PersonalPic {
+	max-width: 300px;
+	max-height: 100px;
+	border-radius: 30px;
+}

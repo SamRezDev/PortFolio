@@ -1,0 +1,30 @@
+.ContactForm {
+	font-size: 32px;
+	margin-top: 50px;
+	height: 400px;
+	color: white;
+	background-color: #303030;
+}
+form {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}
+.Inputs {
+	margin: 10px 0;
+}
+#EmailInput {
+	margin-left: 92px;
+	width: 250px;
+	height: 40px;
+}
+#MessageInput {
+	width: 250px;
+	height: 250px;
+}
+
+label {
+	font-size: 28px;
+	margin-right: 50px;
+}

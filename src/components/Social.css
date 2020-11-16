@@ -1,0 +1,11 @@
+#FooterIcons {
+	color: white;
+	font-size: 48px;
+	margin: 20px;
+}
+
+#FooterIcons:hover {
+	cursor: pointer;
+	color: yellow;
+	transition: 0.2s ease-in;
+}
