@@ -22,7 +22,7 @@ function App() {
 
 
      <div className="Socials">
-     <div id="Footer"class="TextFooter"> find me here :D </div>
+     <div id="Footer"class="TextFooter"> find me over here !  </div>
      <Social link="https://www.linkedin.com/in/samirez/" iconName="linkedin"/>
      <Social link="https://twitter.com/SaRez_wd" iconName="twitter"/>
      <Social link="https://github.com/SamRezDev" iconName="github"/>
