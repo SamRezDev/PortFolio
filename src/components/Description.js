@@ -12,7 +12,7 @@ export default function Description() {
             
             
             <div className="DescMini"> 
-            <h5>ABOUT ME  </h5>  <img id="PersonalPic" src={SamPic} alt="PersonalPic"/> <div>Got a master's degree in Software engineering <br/> 
+            <h5>ABOUT ME  </h5>  <img id="PersonalPic" src={SamPic} alt="PersonalPic"/> <div className= "DescTextMini">I'm a front-end Web Developer and holder of a master's degree in Software engineering <br/> 
             Always motivated to learn new things and apply them so that i can help people achieve the result they're aiming for  </div>
             
             

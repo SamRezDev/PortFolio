@@ -44,3 +44,12 @@ body {
 		background-position: 0% 50%;
 	}
 }
+
+@media screen and (max-width: 1400px) {
+	.Socials {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+	}
+}

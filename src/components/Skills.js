@@ -16,7 +16,8 @@ export default function Skills() {
             <Skill title="Bootstrap" iconName="bootstrap" color="#080135" />
             </div>
             <h1>Spoken languages</h1>
-            <div id="Skills"className = "LangContainer">
+            <div id="Skills" className = "LangContainer">
+           
             <Skill title="ENGLISH" size="38px" />
             <Skill title="FRENCH" size="38px" />
             <Skill title="ARABIC"  size="38px"/>

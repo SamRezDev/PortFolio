@@ -32,11 +32,16 @@ h5 {
 
 	text-align: left;
 	font-size: 16px;
-	opacity: 0.75;
+
 	margin-left: 10px;
 }
 .DescMini > div {
 	margin-left: 20px;
+}
+.DescTextMini {
+	font-size: 1.25em;
+	opacity: 0.90;
+	font-family: Goldman;
 }
 #PersonalPic {
 	max-width: 300px;
