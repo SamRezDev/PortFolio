@@ -19,6 +19,7 @@ ul {
 	background: linear-gradient(45deg, hsl(250, 99%, 60%), #0c0c0c);
 	border-bottom: 3px solid grey;
 	color: white;
+	z-index: 1;
 }
 li {
 	color: white;
