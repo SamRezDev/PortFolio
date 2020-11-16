@@ -18,9 +18,9 @@ export default function Skills() {
             <h1>Spoken languages</h1>
             <div id="Skills" className = "LangContainer">
            
-            <Skill title="ENGLISH" size="38px" />
-            <Skill title="FRENCH" size="38px" />
-            <Skill title="ARABIC"  size="38px"/>
+            <Skill title="ENGLISH" iconName="spell-check" size="38px" />
+            <Skill title="FRENCH" iconName="spell-check" size="38px" />
+            <Skill title="ARABIC"  iconName="spell-check" size="38px"/>
             </div>
         </div>
     )

@@ -5,6 +5,7 @@
 	background-color: hsl(250, 71%, 60%);
 	padding: 25px;
 	border-radius: 10px;
+	text-align: center;
 }
 .Skill i {
 	transition: all 0.1s ease-in;
