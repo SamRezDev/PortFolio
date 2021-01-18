@@ -6,6 +6,13 @@
 #MyProj {
 	margin-top: 50px;
 }
+.AndMoreContainer {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: black;
+	font-size: 3rem;
+}
 
 @media screen and (max-width: 1400px) {
 	.Projects {

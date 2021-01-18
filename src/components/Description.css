@@ -2,8 +2,8 @@
 
 .DescriptionCont {
 	font-family: 'Goldman', cursive;
-	color: white;
-	background-color: #8483c3;
+	color: black;
+	background-color: white;
 	height: 500px;
 	display: flex;
 	justify-content: center;
@@ -39,9 +39,14 @@ h5 {
 	margin-left: 20px;
 }
 .DescTextMini {
-	font-size: 1.25em;
+	font-size: 1.50rem;
 	opacity: 0.90;
-	font-family: Goldman;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.DescTextMini > span {
+	letter-spacing: 2px;
+	font-weight: 600;
+	color: rgb(24, 114, 187);
 }
 #PersonalPic {
 	max-width: 300px;
@@ -58,5 +63,10 @@ h5 {
 	}
 	.DescriptionCont {
 		height: auto;
+	}
+	h1 {
+		padding-left: 0px;
+		text-align: center;
+		color: #41339a;
 	}
 }
