@@ -13,6 +13,13 @@ export const ProjectsArray= [{
     linkImage: "https://imgur.com/mSU9DAn.png",
     },
     {
+        Title : "WADDISH! (What dish?) ",
+        Description :"A FullStack MERN-app that help you choose what dish to eat ",
+        linkGit : "https://github.com/SamRezDev/WaddishClient",
+        linkPreview :"https://waddish.herokuapp.com/",
+        linkImage: "https://media.discordapp.net/attachments/422747649817444355/823271424080085062/unknown.png?width=1095&height=509",
+        },
+    {
         Title : "Landing page for a business ",
         Description :"A landing page with different sections ,made using ReactJS",
         linkGit : "https://github.com/SamRezDev/splashtest",
